@@ -4,8 +4,8 @@ Name: Douglas Oak
 Student# : Not Available due to post in public repository
 
 Algorithm Description: This program calculates a predicted grade for info 2313
-by proimpting the user for thier actual mark ,on thier assigments and test, or thier
-prdicted mark and returns a final predicted letter grade based on the calculated mark total.
+by prompting the user for their actual mark ,on their assignments and test, or their
+predicted mark and returns a final predicted letter grade based on the calculated mark total.
 
 
 No functions or external packages were used as part of this program
