@@ -10,7 +10,7 @@ predicted mark and returns a final predicted letter grade based on the calculate
 
 No functions or external packages were used as part of this program
 
-Version: 0.1.0.0
+Version: 0.1.0.1
 
 */
 
